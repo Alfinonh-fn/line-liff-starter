@@ -15,7 +15,7 @@ function initializeApp(data) {
     // openWindow call
     document.getElementById('openwindowbutton').addEventListener('click', function () {
         liff.openWindow({
-            url: 'line://app/1604066537-dl9GVZzo'
+            url: 'https://alfinonh.github.io/liff'
         });
     });
 
